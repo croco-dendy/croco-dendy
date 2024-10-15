@@ -1,5 +1,7 @@
 👋 Hi, I’m @croco-dendy
+
 👀 I’m interested in game development
+
 🌱 I’m currently learning Rust and Unity
 
 <!---
