@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @croco-dendy
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning Rust and Unity
+👋 Hi, I’m @croco-dendy
+👀 I’m interested in game development
+🌱 I’m currently learning Rust and Unity
 
 <!---
 croco-dendy/croco-dendy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
